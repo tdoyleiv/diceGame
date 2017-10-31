@@ -1,3 +1,6 @@
 body{
-	background: url(image001.jpg) scroll top;
+	background-image: url(image001.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
 }
